@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://cdn.appvalley.vip/ipa/com.AeroTVTeam.AeroTViOS.ipa</string>
+					<string>https://cdn.appvalley.vip/ipa/bcc.com.bobbymovie.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -19,13 +19,13 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>https://appvalley.vip/app/icon/aerotvicon.png</string>
+					<string>https://appvalley.vip/app/icon/bobbymovie.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.aerotv.aerotvapp</string>
+				<string>com.bcc.bobbymovie</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
 				<key>kind</key>
@@ -33,7 +33,7 @@
 				<key>subtitle</key>
 				<string></string>
 				<key>title</key>
-				<string>AeroTV - Asterix Installer</string>
+				<string>Bobby Movie - Asterix Installer</string>
 			</dict>
 		</dict>
 	</array>
