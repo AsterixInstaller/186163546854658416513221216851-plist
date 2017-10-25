@@ -17,13 +17,13 @@
             <key>metadata</key>
             <dict>
                 <key>bundle-identifier</key>
-                <string>com.tweakbox.snapbluepp</string>
+                <string>co.themedevs.snapbluepp</string>
                 <key>bundle-version</key>
                 <string>10.5.0</string>
                 <key>kind</key>
                 <string>software</string>
                 <key>title</key>
-                <string>SnapBlue++</string>
+                <string>SnapBlue++ - Asterix Installer</string>
             </dict>
         </dict>
     </array>
