@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>assets</key>
+			<array>
+				<dict>
+					<key>kind</key>
+					<string>software-package</string>
+					<key>url</key>
+					<string>http://down.weapp.com/apps/zb/002/13/46/91/5a0eeb361a2ab4e162834612.ipa</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>display-image</string>
+					<key>needs-shine</key>
+					<true/>
+					<key>url</key>
+					<string>http://images.tutuapp.com/picture/app_ios/cn/002/13/46/91/56cfc6dc88151_f5405f0c933048ea9c9bb2e59faee491.jpeg</string>
+				</dict>
+			</array>
+			<key>metadata</key>
+			<dict>
+				<key>bundle-identifier</key>
+				<string>com.tutuapp.subwaysurfers</string>
+				<key>bundle-version</key>
+				<string>1.0</string>
+				<key>kind</key>
+				<string>software</string>
+				<key>subtitle</key>
+				<string></string>
+				<key>title</key>
+				<string>Subway Surfers [Hacked] - Asterix Installer</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
