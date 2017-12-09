@@ -13,9 +13,17 @@
                     <key>url</key>
                     <string>https://cdn.appvalley.vip/ipa/zombie.survival.craft.z3.ipa</string>
                 </dict>
-            </array>
-            <key>metadata</key>
-            <dict>
+				<dict>
+					<key>kind</key>
+					<string>display-image</string>
+					<key>needs-shine</key>
+					<true/>
+					<key>url</key>
+					<string>http://is5.mzstatic.com/image/thumb/Purple118/v4/57/e8/10/57e81042-f305-eed2-327c-6a7a99ba42e8/source/512x512bb.jpg</string>
+				</dict>
+			</array>
+			<key>metadata</key>
+			<dict>
                 <key>bundle-identifier</key>
                 <string>zombie.survival.craft.z</string>
                 <key>bundle-version</key>
